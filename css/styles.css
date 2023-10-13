@@ -329,7 +329,10 @@ img {
     flex-basis: calc((100% - 3 * 16px) / 3);
 }
 .section-solution {
+    background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
+        url(../images/people-office.jpg);
     padding: 188px 0;
+    max-width: 1440px;
 }
 .footer {
     padding: 100px 0;
