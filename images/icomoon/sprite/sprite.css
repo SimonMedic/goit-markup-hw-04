@@ -1,0 +1,76 @@
+.icon {
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-image: url(sprite.svg);
+}
+.icon-astronaut {
+  width: 32px;
+  height: 32px;
+  background-position: 0 0;
+}
+.icon-clock {
+  width: 32px;
+  height: 32px;
+  background-position: -48px 0;
+}
+.icon-diagram {
+  width: 32px;
+  height: 32px;
+  background-position: -96px 0;
+}
+.icon-facebook {
+  width: 32px;
+  height: 32px;
+  background-position: -144px 0;
+}
+.icon-instagram {
+  width: 32px;
+  height: 32px;
+  background-position: -192px 0;
+}
+.icon-linkedin {
+  width: 32px;
+  height: 32px;
+  background-position: -240px 0;
+}
+.icon-Logo {
+  width: 59px;
+  height: 32px;
+  background-position: -288px 0;
+}
+.icon-LogoCompany {
+  width: 59px;
+  height: 32px;
+  background-position: -384px 0;
+}
+.icon-LogoCube {
+  width: 59px;
+  height: 32px;
+  background-position: -480px 0;
+}
+.icon-LogoInk {
+  width: 36px;
+  height: 32px;
+  background-position: -576px 0;
+}
+.icon-LogoLeaf {
+  width: 59px;
+  height: 32px;
+  background-position: -624px 0;
+}
+.icon-LogoSeeds {
+  width: 59px;
+  height: 32px;
+  background-position: 0 -48px;
+}
+.icon-twitter {
+  width: 32px;
+  height: 32px;
+  background-position: -96px -48px;
+}
+.icon-antenna {
+  width: 32px;
+  height: 32px;
+  background-position: -144px -48px;
+}
+
