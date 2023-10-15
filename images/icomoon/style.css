@@ -15,6 +15,10 @@ Single-colored icons can be modified like so:
 }
 ========================================== */
 
+.icon-LogoInk {
+  width: 1.857421875em;
+}
+
 .icon-Logo {
   width: 1.857421875em;
 }
@@ -25,10 +29,6 @@ Single-colored icons can be modified like so:
 
 .icon-LogoCube {
   width: 1.857421875em;
-}
-
-.icon-LogoInk {
-  width: 1.111328125em;
 }
 
 .icon-LogoLeaf {
