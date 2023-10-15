@@ -504,3 +504,6 @@ img {
     .icon-footer {
         fill: var(--light-color);
     }
+    .container-socials-footer {
+        margin-right: 120px;
+    }
