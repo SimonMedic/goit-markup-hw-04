@@ -337,6 +337,7 @@ img {
     background-size: cover;
     padding: 188px 0;
     max-width: 1440px;
+    margin: 0 auto;
 }
 .footer {
     padding: 100px 0;
@@ -493,16 +494,16 @@ img {
     color: var(--white-background-color);
     margin-bottom: 16px;
     }
-    .socials-list-footer {
+.socials-list-footer {
         list-style: none;
         display: flex;
         gap: 16px;
     }
-    .footer-social-list-point {
+.footer-social-list-point {
         height: 40px;
         width: 40px; 
     }
-    .footer-socials-link {
+.footer-socials-link {
         width: 100%;
         height: 100%;
         background-color: var(--primary-brand-color);
@@ -511,13 +512,13 @@ img {
         align-items: center;
         justify-content: center;
     }
-    .footer-socials-link:hover {
+.footer-socials-link:hover {
         background-color: var(--success-color);
     }
-    .footer-socials-link:focus {
+.footer-socials-link:focus {
         background-color: var(--success-color);
     }
-    .icon-footer {
+.icon-footer {
         fill: var(--light-color);
     }
     .container-socials-footer {
