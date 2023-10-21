@@ -366,11 +366,6 @@ img {
     flex-wrap: wrap;
     width: calc((100% - 48px) / 3);
 }
-.link-portfolio {
-    box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
-        0px 1px 1px rgba(46, 47, 66, 0.16),
-        0px 2px 1px rgba(46, 47, 66, 0.08);
-}
 .link-portfolio:hover {
     box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
         0px 1px 1px rgba(46, 47, 66, 0.16),
@@ -417,7 +412,7 @@ img {
     justify-content: center;
     gap: 24px;
     list-style: none;
-    padding-top: 24px;
+    margin-top: 8px;
 }
 .social-point {
     width: 40px;
